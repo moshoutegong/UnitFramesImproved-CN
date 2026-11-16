@@ -1,0 +1,16 @@
+## Interface: 30300
+## Title: |cffFF4500[HM]|r[头像]UFI
+## Notes: 增强单位框架，带完整设置面板。仅适用于 3.3.5a WotLK。
+## Version: 1.4.8-CoA-ToTSafety
+## Author: Althalla (Kim Forsberg) | Enhancements by Dabsec + Grok| 黑猫 | B站魔兽特工
+## SavedVariables: globalSettings
+## SavedVariablesPerCharacter: characterSettings
+
+## X-License: Public Domain
+## X-Category: Unit Frames
+
+UnitFramesImproved.lua
+ClassHealthColors.lua
+
+
+
