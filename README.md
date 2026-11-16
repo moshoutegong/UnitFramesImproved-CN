@@ -1,2 +1,2 @@
 # UnitFramesImproved-CN
-飞升魔兽头像框体插件UnitFramesImproved，在黑猫汉化的基础下加以修复整合版以适用于Arden版本。
+飞升魔兽头像框体插件UnitFramesImproved，在黑猫汉化的基础下加以修复整合以适用于Arden版本。
